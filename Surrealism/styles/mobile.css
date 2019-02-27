@@ -1,0 +1,15 @@
+#menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#MCEcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center:
+}
+
+#adbanner {
+   visibility: hidden;
+}
