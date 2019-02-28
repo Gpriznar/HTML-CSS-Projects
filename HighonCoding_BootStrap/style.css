@@ -1,0 +1,42 @@
+.menu-background {
+  background-color: #313131;
+}
+
+.card-title {
+  font-size: 24px;
+  color: blue;
+}
+
+.row {
+  margin: 10px;
+}
+
+.card-group {
+  margin: 5%;
+}
+
+.card-title {
+  color: Black;
+  text-align: left;
+}
+
+.card-text {
+  color: Grey;
+  text-align: left;
+}
+
+.cardcolorchange:hover {
+  background-color: #DDDEE0;
+}
+
+.cardlink {
+  text-align: center;
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+h5 {
+  font-size: 24px;
+}
